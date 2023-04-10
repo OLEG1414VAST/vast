@@ -1,0 +1,25 @@
+body{
+    background-image:url(pattern.png);
+}
+header{background-color: #00b3c0;
+display: flex;
+}
+h1{
+    margin: auto;
+    justify-content: center;
+    font-size: 500%;
+    font-family: 'Courier New', Courier, monospace;
+}
+article{
+    font-size: 140%;
+    width: 50%;
+}
+.main{
+    padding: 2%;
+    display: flex;
+}
+.content{
+    margin: auto;
+    justify-content: center;
+    width: 1000px;
+}
